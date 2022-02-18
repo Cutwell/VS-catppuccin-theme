@@ -4,9 +4,10 @@
         <Identity Id="VS_catppuccin_theme.2f5cb1ef-c71c-4151-a662-9059f97ae7fd" Version="1.0" Language="en-US" Publisher="Zachary Smith" />
         <DisplayName>VS_catppuccin_theme</DisplayName>
         <Description xml:space="preserve">Catppuccin theme for Visual Studio 2022. Ported from VSCode.</Description>
+        <MoreInfo>https://github.com/Cutwell/VS-catppuccin-theme</MoreInfo>
         <License>LICENSE.txt</License>
-        <Icon>500x500_circle.png</Icon>
-        <PreviewImage>sample.png</PreviewImage>
+        <Icon>assets\logo.png</Icon>
+        <PreviewImage>assets\sample.png</PreviewImage>
         <Tags >theme, eye-candy, dark-theme, soothing-dark-theme, catppuccin, fancy</Tags>
     </Metadata>
     <Installation>
