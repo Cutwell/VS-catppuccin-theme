@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://github.com/Cutwell/VS-catppuccin-theme/stargazers"><img src="https://img.shields.io/github/stars/Cutwell/VS-catppuccin-theme?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
     <a href="https://github.com/Cutwell/VS-catppuccin-theme/issues"><img src="https://img.shields.io/github/issues/Cutwell/VS-catppuccin-theme?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/Cutwell/VS-catppuccin-theme/contributors"><img src="https://img.shields.io/github/Cutwell/VS-catppuccin-theme?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/Cutwell/VS-catppuccin-theme/contributors"><img src="https://img.shields.io/github/contributors/Cutwell/VS-catppuccin-theme?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
