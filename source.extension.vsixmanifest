@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="VS_catppuccin_theme.2f5cb1ef-c71c-4151-a662-9059f97ae7fd" Version="1.0" Language="en-US" Publisher="Zachary Smith" />
+        <DisplayName>VS_catppuccin_theme</DisplayName>
+        <Description xml:space="preserve">Catppuccin theme for Visual Studio 2022. Ported from VSCode.</Description>
+        <License>LICENSE.txt</License>
+        <Icon>500x500_circle.png</Icon>
+        <PreviewImage>sample.png</PreviewImage>
+        <Tags >theme, eye-candy, dark-theme, soothing-dark-theme, catppuccin, fancy</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="catppuccin.pkgdef" />
+    </Assets>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
