@@ -1,0 +1,1 @@
+VS-catppuccin-theme
