@@ -1,0 +1,5 @@
+remote_theme: rosario/kasper
+plugins:
+  - jekyll-feed
+title: Visual Studio Catppuccin Theme
+description: ♾️ Soothing pastel theme for Visual Studio 2022.
